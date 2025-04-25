@@ -7,7 +7,7 @@ import numpy as np
 
 
 # Load YOLO model
-model = YOLO("models/yolov10m.pt")
+model = YOLO("models/yolov10s.pt")
 
 # YOLO class names
 yolo_classes = [
